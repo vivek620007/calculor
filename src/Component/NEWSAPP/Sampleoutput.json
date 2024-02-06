@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+"articles": [
+ {
+ "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "New Zealand election: Disillusioned voters eye shift away from the left",
+            "description": "Three years on from Jacinda Ardern's sweeping victory, polls indicate voters will desert Labour.",
+            "url": "http://www.bbc.co.uk/news/world-asia-67089773",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5064/production/_131408502_freyaimg_1202.jpg",
+            "publishedAt": "2023-10-13T06:07:22.474331Z",
+            "content": "They said hello, smiled and shook hands for the cameras.\r\nThen after New Zealand's prime minister moved on, sweeping through the food court in Auckland's city centre, the couple fell back.\r\n\"Yeah hon… [+7064 chars]"
+        },
+ {
+ "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "EU opens investigation into X over alleged disinformation",
+            "description": "X, formerly Twitter, is being investigated over the possible spread of terrorist and violent content after Hamas' Israel attack.",
+            "url": "http://www.bbc.co.uk/news/technology-67097020",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/112EA/production/_131387307_elonmusk.png",
+            "publishedAt": "2023-10-13T06:07:21.1604097Z",
+            "content": "The EU is investigating Elon Musk's X over the possible spread of terrorist and violent content, and hate speech, after Hamas' attack on Israel.\r\nThe investigation, the first under the EU's new tech … [+3260 chars]"
+        },
+ {
+ "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Air Canada sued over $20m gold and cash heist",
+            "description": "Six months later, the heist remains unsolved. Now, a US-based security company wants its money back.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-67097117",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12868/production/_131408857_gettyimages-1258873701.jpg",
+            "publishedAt": "2023-10-13T02:22:14.9727156Z",
+            "content": "A US-based security company has sued Air Canada over gold bars and cash worth millions that were stolen from Toronto's airport in April. \r\nBrink's International alleges the airline was \"reckless\" and… [+2032 chars]"
+        },
+ {
+ "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Former IRS worker pleads guilty to leaking Trump's tax returns",
+            "description": "A lawyer for Mr Trump asked the judge to impose the strictest penalty for the criminal \"atrocity\".",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-67097052",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16A6C/production/_131408729_gettyimages-1715110303.jpg",
+            "publishedAt": "2023-10-13T02:07:15.1292427Z",
+            "content": "A former US tax worker has pleaded guilty to the unauthorised leak of former president Donald Trump's personal tax records to news organisations.\r\nCharles Littlejohn, a contractor for the IRS, the US… [+2269 chars]"
+        },
+ {
+ "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Three ways Republican House Speaker chaos ends on Capitol Hill",
+            "description": "It is unclear who embattled House Republicans will nominate to become the next Speaker.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-67096624",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16620/production/_131408619_f70b69cf94634096a51eb35830c5ae92bcbb13d20_0_5721_38141000x667.jpg",
+            "publishedAt": "2023-10-13T02:07:14.1138675Z",
+            "content": "A day after being chosen as the Republican party's nominee to be Speaker of the House of Representatives, Steve Scalise has withdrawn from the race. What happens now?\r\nAfter beating right-wing hardli… [+4542 chars]"
+        },
+ {
+ "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Steve Scalise drops out of US Speaker race",
+            "description": "The Republican lawmaker fails to gain enough votes to secure an overall majority in the chamber.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-67097299",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2023-10-13T00:22:16.3642296Z",
+            "content": "Republican Congressman Steve Scalise has dropped out of the race to become Speaker of the House just a day after his party nominated him. \r\nMr Scalise, 58, had struggled to gain enough votes to secur… [+875 chars]"
+        },
+ {
+ "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Colorado officer found guilty in Elijah McClain death",
+            "description": "Another officer was acquitted by a jury in the death of McClain, a young black man who died in 2019.",
+            "url": "http://www.bbc.co.uk/news/uk-67097118",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2023-10-12T23:22:12.8482929Z",
+            "content": "A Colorado officer has been found guilty of criminally negligent homicide in the death of 23-year-old Elijah McClain, while another was acquitted."
+        },
+ {
+ "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US $6bn deal with Iran under scrutiny in wake of Hamas attack on Israel",
+            "description": "President Biden has faced pressure to hold the funds amid claims Tehran instigated the Hamas attack.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-67084515",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B64E/production/_131407664_iran323.jpg",
+            "publishedAt": "2023-10-12T20:07:21.441488Z",
+            "content": "The US says Iran has not accessed money agreed in a prisoner swap as the White House faces renewed criticism over the deal amid claims Tehran instigated a Hamas attack on Israel last weekend.\r\nWashin… [+2879 chars]"
+        },
+ {
+ "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "What happened at Taylor Swift's Eras film premiere?",
+            "description": "The star greeted fans for the world premiere of the film Taylor Swift: The Eras Tour in Los Angeles.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-67087817",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/125B/production/_131399640_p0gl01z5.jpg",
+            "publishedAt": "2023-10-12T19:22:21.5672469Z",
+            "content": "Taylor Swift greeted fans for the world premiere of the film Taylor Swift: The Eras Tour in Los Angeles.\r\nDetails ahead of Wednesday's premiere were shrouded in secrecy, with select fans receiving in… [+253 chars]"
+        },
+ {
+ "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "France bans all pro-Palestinian demonstrations",
+            "description": "The move comes as European governments fear a rise in antisemitism triggered by the Israel-Hamas war.",
+            "url": "http://www.bbc.co.uk/news/world-europe-67088547",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1230E/production/_131401547_a095cd45b03326f0fb96358aecd3e62a81ec152214_518_4885_27481000x563.jpg",
+            "publishedAt": "2023-10-12T16:52:19.317211Z",
+            "content": "France's interior minister has banned all pro-Palestinian demonstrations in the country.\r\nIn a statement, Gérald Darmanin ordered foreign nationals who break the rules to be \"systematically\" deported… [+4003 chars]"
+        }
+    ]
+}
